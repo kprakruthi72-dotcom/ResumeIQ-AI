@@ -1,0 +1,7 @@
+python
+flask
+sql
+machine learning
+pandas
+numpy
+data analysis

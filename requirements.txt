@@ -1,0 +1,6 @@
+flask
+gunicorn
+werkzeug
+scikit-learn
+numpy
+pdfplumber
